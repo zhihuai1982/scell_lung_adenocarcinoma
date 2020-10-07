@@ -133,7 +133,7 @@ names(list.sum)[i] <- patients[i]
 ```
 
 
-Plot fractional changes of selected cell populations across treatment (Patient TH226)
+#  Plot fractional changes of selected cell populations across treatment (Patient TH226)
 ```{r}
 metadata <- tiss_immune@meta.data
 # Keep only cells from tissues that are not brain or pleura 
